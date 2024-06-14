@@ -1,0 +1,9 @@
+[submodule "iw-mixes-ui"]
+	path = iw-mixes-ui
+	url = git@github.com:wangfarui/iw-mixes-ui.git
+[submodule "iw-mixes-eat-app"]
+	path = iw-mixes-eat-app
+	url = git@github.com:wangfarui/iw-mixes-eat-app.git
+[submodule "iw-mixes-eat"]
+	path = iw-mixes-eat
+	url = git@github.com:wangfarui/iw-mixes-eat.git
